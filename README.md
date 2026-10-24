@@ -27,6 +27,7 @@ bu durumda normal bir Linux terminalinde çalıştır.
 ## Yayımlanan bölümler
 
 <!-- chapters:start -->
+- [01-fork](chapters/01-fork/README.md)
 <!-- chapters:end -->
 
 ## Yol haritası
