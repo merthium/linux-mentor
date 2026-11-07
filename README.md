@@ -29,6 +29,7 @@ bu durumda normal bir Linux terminalinde çalıştır.
 <!-- chapters:start -->
 - [01-fork](chapters/01-fork/README.md)
 - [02-dup](chapters/02-dup/README.md)
+- [03-proc](chapters/03-proc/README.md)
 <!-- chapters:end -->
 
 ## Yol haritası
